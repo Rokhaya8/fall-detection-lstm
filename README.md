@@ -1,4 +1,4 @@
-# Fall Detection with LSTM — SisFall & Daphnet
+# Fall Detection with LSTM - SisFall & Daphnet
 
 Detecting falls from wearable accelerometer signals with an LSTM network. The model is
 trained and evaluated on **SisFall**, then tested on **Daphnet** (Parkinson's disease

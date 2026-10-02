@@ -1,0 +1,12 @@
+# Données (non publiées : télécharger depuis les sources officielles)
+data/
+*.npy
+*.zip
+*.pkl
+
+# Python / Jupyter
+__pycache__/
+.ipynb_checkpoints/
+
+# Systèmes
+.DS_Store
